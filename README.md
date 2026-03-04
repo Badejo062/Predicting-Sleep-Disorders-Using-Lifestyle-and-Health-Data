@@ -81,12 +81,11 @@ Seaborn
 📁 Repository Structure
 Example repository structure:
 sleep-disorder-prediction
-│
-├── sleep_disorder_notebook.ipynb
-├── README.md
+ sleep_disorder_notebook.ipynb
+README.md
 ├── research_report.pdf
 └── dataset_information.md
 👤 Author
-Steven Wilson
+Tope Badejo
 Master’s in Project Management – Lasell University
 Research interest: Personal Health Informatics, Digital Health Analytics, and Behavioral Health Data Science.
